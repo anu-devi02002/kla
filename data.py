@@ -28,25 +28,5 @@ with open('Milestone1_Example.yaml') as f:
         print(i)
         if type=='flow':
             flow(i)
-
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-'''for p_id, p_info in people.items():
-    print("\nPerson ID:", p_id)
-    
-    for key in p_info:
-        print(key + ':', p_info[key])'''
     
     
